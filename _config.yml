@@ -1,4 +1,4 @@
-remote_theme: Midnight
+remote_theme: midnight
 # Where things are
 source              : .
 destination         : ./_site
